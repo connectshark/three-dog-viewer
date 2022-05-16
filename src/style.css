@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100vh;
+  font-family: 'Poppins';
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
